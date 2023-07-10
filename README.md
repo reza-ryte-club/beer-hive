@@ -1,6 +1,5 @@
-# Dema.ai Front-end Challenge Demo 
+# Beer Hive - A beer search tool
 
-This application is a proposed solution for the Dema.ai Front-end Hiring Test.
 ## How to run the source code
 
 ```sh
